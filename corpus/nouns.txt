@@ -83,6 +83,23 @@ hammer
 boot
 badge
 map
+zombie
+jacket
+chupacabra
+deer
+snowman
+wolf
+computer
+common sense
+bat
+squirrel
+elephant
+dandelion
+lion
+abomination
+bread
+circle
+weapon
 
 
 patriarchy (singular=always,only=proper)

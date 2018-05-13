@@ -154,6 +154,9 @@
 - name: Shepard
   search: femshep mass effect
   fandom: me
+- name: Commander Shepard
+  search: commander shepard
+  fandom: me
 - name: Liara
   search: liara mass effect
   fandom: me
@@ -295,3 +298,36 @@
 - name: Alphys
   search: undertale alphys
   fandom: undertale
+- name: Abe
+  search: oddworld
+  fandom: oddworld
+- name: Cate
+  search: no one lives forever cate
+  fandom: nolf
+- name: Clementine
+  search: the walking dead clementine
+  fandom: twd
+- name: Lee
+  search: the walking dead lee everett
+  fandom: twd
+- name: Kenny
+  search: the walking dead kenny
+  fandom: twd
+- name: Glenn
+  search: the walking dead glenn
+  fandom: twd
+- name: Sub-Zero
+  search: mortal kombat sub-zero
+  fandom: mk
+- name: Scorpion
+  search: mortal kombat scorpion
+  fandom: mk
+- name: Duke Nukem
+  search: duke nukem
+  fandom: dukenukem
+- name: Max Payne
+  search: max payne
+  fandom: maxpayne
+- name: Guybrush
+  search: guybrush threepwood
+  fandom: monkeyisland

@@ -105,3 +105,35 @@ attack
 jump
 bounce
 focus
+hide
+conceal @character-or-thing@
+run
+squish @character-or-thing@
+follow @character-or-thing@
+appear
+continue
+agree with @character-or-thing@
+build
+accept
+heckle
+feast
+subbathe
+bewitch @character-or-thing@
+bluff
+scrounge
+dribble
+muscle
+astonish @character-or-thing@
+chuckle
+sip
+flag
+shame
+floor
+counter
+calculate
+pee
+twitch
+liberate @character-or-thing@
+bounce
+claim
+reclaim

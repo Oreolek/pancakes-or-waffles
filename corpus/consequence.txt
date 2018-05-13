@@ -5,3 +5,5 @@ everything you @verb.past@ will be @verb.past-participle@
 @thing.plural.proper@ will be @verb.past-participle@
 @thing.plural.proper@ you @verb.past@ will be @verb.past-participle@
 @character-or-thing@ will be @verb.past-participle@
+
+@character-or-thing@ will remember that.
