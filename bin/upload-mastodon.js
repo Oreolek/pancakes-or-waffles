@@ -14,7 +14,7 @@ if(process.env.MC_MASTO_TOKEN){
 		access_token: process.env.MC_MASTO_TOKEN,
 		timeout_ms: 120*1000,
 		api_url: process.env.MC_MASTO_API,
-	})
+	});
 	var media = path.join(config.paths.build,config.filenames.base+'.jpg');
 	var id;
 	M.post('media', {
@@ -24,8 +24,8 @@ if(process.env.MC_MASTO_TOKEN){
 		M.post('statuses', {
 			status: '',
 			media_ids: [id]
-		})
-	})
+		});
+	});
 } else {
 	reporter.error('Missing env variables');
 }
